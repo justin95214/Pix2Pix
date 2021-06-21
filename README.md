@@ -1,4 +1,4 @@
-# Pix2Pix
+# Pix2Pix >> 정리 자료 (https://github.com/justin95214/Pix2Pix/blob/main/pix2pix.pdf)
 
 
 Pix2PixGAN은 이미지를 이미지로 Generator을 학습시키고, fake이미지를 출력하고, 그 이미지를 discriminator가 완성된 그림을 식별하도록 목적 함수를 설계하여, 학습 시키면서 서서히 generator은 완성된 fake그림을 출력하여, ground truth에 가까운 그림을 만들어 discriminator가 구별하지 못하도록 한다,
